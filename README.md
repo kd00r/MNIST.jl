@@ -1,3 +1,15 @@
+# Why this fork exists
+
+This fork simply makes this package workable in newer versions
+of Julia by the addition of a "Project.toml" file with a
+unique UUID.
+
+I made this fork due to following a rather old tutorial which
+made use of the original package.
+
+Anyone who is doing something similar would probably find this fork useful.
+
+
 MNIST.jl
 ========
 
